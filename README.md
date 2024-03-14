@@ -1,16 +1,14 @@
-# petshop
+<div align="center">
+  
+  <img src="assets/images/logo_petshop.png" alt="Logo" width="200"/>
+  
+  ## Petshop - Mobile App
 
-A new Flutter project.
+  ### Geral
+  Este é um software desenvolvido para petshops, com o objetivo de tornar prático o agendamento de consultas, banhos e procedimentos através do aplicativo, além de ter acesso ao histórico de realizações e cadastro dos pets. O projeto é fruto do trabalho de conclusão da disciplina e foi realizado com base nos conhecimentos adiquiridos nas aulas Programação IV do curso de Sistemas de Informação da Universidade do Estado de Minas Gerais.
+  
+  ### Autores
+  Este software foi desenvolvido por **[Henrique Menezes Oliveira](https://github.com/menezesho)** e **[Henry Goes Zanin](https://github.com/HenryGZ)**.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
